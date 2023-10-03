@@ -6,6 +6,14 @@ using System.Threading.Tasks;
 
 namespace Oroklodes14C
 {
+    interface IPelda
+    {
+        void Kiir();
+    }
+    interface IPelda1 
+    {
+        void Kiir();
+    }
     abstract class Alakzat
     {
         public abstract void Rajzol();
@@ -17,7 +25,7 @@ namespace Oroklodes14C
             Console.WriteLine("Ez egy négyzet");
         }
     }
-    class Allat
+    class Allat : IPelda, IPelda1
     {
         protected string hely;
         protected string beszed;
@@ -39,6 +47,14 @@ namespace Oroklodes14C
         }
         public string MitMond() { return beszed; }
 
+        public void Kiir()//Pelda1-es hajtódik vége
+        {
+            Console.WriteLine("Allat");
+        }
+        void IPelda1.Kiir() 
+        {
+            Console.WriteLine("IPelda1");
+        }
     }
 
     class Kutya : Allat
@@ -96,8 +112,10 @@ namespace Oroklodes14C
 
             Negyzet n = new Negyzet();
 
+            IPelda ip = a;
 
-            a.Beszel();
+
+            a.Beszel();a.Kiir();
             k.Beszel();
             m.Beszel();
             KutyaAllat.Beszel();
@@ -107,7 +125,9 @@ namespace Oroklodes14C
             Console.WriteLine(k);
             Console.WriteLine(m);
             n.Rajzol();
-            
+            ip.Kiir();
+
+
             Console.ReadKey();
         }
     }
