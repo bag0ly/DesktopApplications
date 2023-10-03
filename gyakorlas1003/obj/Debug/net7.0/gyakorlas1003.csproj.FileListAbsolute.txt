@@ -1,0 +1,14 @@
+C:\Users\Balázs\Documents\Git\DesktopApplications\gyakorlas1003\obj\Debug\net7.0\gyakorlas1003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balázs\Documents\Git\DesktopApplications\gyakorlas1003\obj\Debug\net7.0\gyakorlas1003.AssemblyInfoInputs.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\gyakorlas1003\obj\Debug\net7.0\gyakorlas1003.AssemblyInfo.cs
+C:\Users\Balázs\Documents\Git\DesktopApplications\gyakorlas1003\obj\Debug\net7.0\gyakorlas1003.csproj.CoreCompileInputs.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\gyakorlas1003\bin\Debug\net7.0\gyakorlas1003.exe
+C:\Users\Balázs\Documents\Git\DesktopApplications\gyakorlas1003\bin\Debug\net7.0\gyakorlas1003.deps.json
+C:\Users\Balázs\Documents\Git\DesktopApplications\gyakorlas1003\bin\Debug\net7.0\gyakorlas1003.runtimeconfig.json
+C:\Users\Balázs\Documents\Git\DesktopApplications\gyakorlas1003\bin\Debug\net7.0\gyakorlas1003.dll
+C:\Users\Balázs\Documents\Git\DesktopApplications\gyakorlas1003\bin\Debug\net7.0\gyakorlas1003.pdb
+C:\Users\Balázs\Documents\Git\DesktopApplications\gyakorlas1003\obj\Debug\net7.0\gyakorlas1003.dll
+C:\Users\Balázs\Documents\Git\DesktopApplications\gyakorlas1003\obj\Debug\net7.0\refint\gyakorlas1003.dll
+C:\Users\Balázs\Documents\Git\DesktopApplications\gyakorlas1003\obj\Debug\net7.0\gyakorlas1003.pdb
+C:\Users\Balázs\Documents\Git\DesktopApplications\gyakorlas1003\obj\Debug\net7.0\gyakorlas1003.genruntimeconfig.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\gyakorlas1003\obj\Debug\net7.0\ref\gyakorlas1003.dll
