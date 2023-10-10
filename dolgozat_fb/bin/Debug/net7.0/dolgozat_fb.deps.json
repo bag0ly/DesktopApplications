@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "dolgozat_fb/1.0.0": {
+        "runtime": {
+          "dolgozat_fb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dolgozat_fb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

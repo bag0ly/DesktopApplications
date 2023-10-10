@@ -1,0 +1,17 @@
+C:\Users\Balázs\Documents\Git\DesktopApplications\dolgozat_fb\obj\Debug\net7.0\dolgozat_fb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balázs\Documents\Git\DesktopApplications\dolgozat_fb\obj\Debug\net7.0\dolgozat_fb.AssemblyInfoInputs.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\dolgozat_fb\obj\Debug\net7.0\dolgozat_fb.AssemblyInfo.cs
+C:\Users\Balázs\Documents\Git\DesktopApplications\dolgozat_fb\obj\Debug\net7.0\dolgozat_fb.csproj.CoreCompileInputs.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\dolgozat_fb\bin\Debug\net7.0\noi.txt
+C:\Users\Balázs\Documents\Git\DesktopApplications\dolgozat_fb\bin\Debug\net7.0\dolgozat_fb.exe
+C:\Users\Balázs\Documents\Git\DesktopApplications\dolgozat_fb\bin\Debug\net7.0\ferfi.txt
+C:\Users\Balázs\Documents\Git\DesktopApplications\dolgozat_fb\bin\Debug\net7.0\vezeteknevek.txt
+C:\Users\Balázs\Documents\Git\DesktopApplications\dolgozat_fb\bin\Debug\net7.0\dolgozat_fb.deps.json
+C:\Users\Balázs\Documents\Git\DesktopApplications\dolgozat_fb\bin\Debug\net7.0\dolgozat_fb.runtimeconfig.json
+C:\Users\Balázs\Documents\Git\DesktopApplications\dolgozat_fb\bin\Debug\net7.0\dolgozat_fb.dll
+C:\Users\Balázs\Documents\Git\DesktopApplications\dolgozat_fb\bin\Debug\net7.0\dolgozat_fb.pdb
+C:\Users\Balázs\Documents\Git\DesktopApplications\dolgozat_fb\obj\Debug\net7.0\dolgozat_fb.dll
+C:\Users\Balázs\Documents\Git\DesktopApplications\dolgozat_fb\obj\Debug\net7.0\refint\dolgozat_fb.dll
+C:\Users\Balázs\Documents\Git\DesktopApplications\dolgozat_fb\obj\Debug\net7.0\dolgozat_fb.pdb
+C:\Users\Balázs\Documents\Git\DesktopApplications\dolgozat_fb\obj\Debug\net7.0\dolgozat_fb.genruntimeconfig.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\dolgozat_fb\obj\Debug\net7.0\ref\dolgozat_fb.dll
