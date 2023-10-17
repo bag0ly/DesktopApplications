@@ -1,0 +1,15 @@
+C:\Users\Balázs\Documents\Git\DesktopApplications\oroklesGyak\bin\Debug\net7.0\oroklesGyak.exe
+C:\Users\Balázs\Documents\Git\DesktopApplications\oroklesGyak\bin\Debug\net7.0\Pekseg.txt
+C:\Users\Balázs\Documents\Git\DesktopApplications\oroklesGyak\bin\Debug\net7.0\oroklesGyak.deps.json
+C:\Users\Balázs\Documents\Git\DesktopApplications\oroklesGyak\bin\Debug\net7.0\oroklesGyak.runtimeconfig.json
+C:\Users\Balázs\Documents\Git\DesktopApplications\oroklesGyak\bin\Debug\net7.0\oroklesGyak.dll
+C:\Users\Balázs\Documents\Git\DesktopApplications\oroklesGyak\bin\Debug\net7.0\oroklesGyak.pdb
+C:\Users\Balázs\Documents\Git\DesktopApplications\oroklesGyak\obj\Debug\net7.0\oroklesGyak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balázs\Documents\Git\DesktopApplications\oroklesGyak\obj\Debug\net7.0\oroklesGyak.AssemblyInfoInputs.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\oroklesGyak\obj\Debug\net7.0\oroklesGyak.AssemblyInfo.cs
+C:\Users\Balázs\Documents\Git\DesktopApplications\oroklesGyak\obj\Debug\net7.0\oroklesGyak.csproj.CoreCompileInputs.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\oroklesGyak\obj\Debug\net7.0\oroklesGyak.dll
+C:\Users\Balázs\Documents\Git\DesktopApplications\oroklesGyak\obj\Debug\net7.0\refint\oroklesGyak.dll
+C:\Users\Balázs\Documents\Git\DesktopApplications\oroklesGyak\obj\Debug\net7.0\oroklesGyak.pdb
+C:\Users\Balázs\Documents\Git\DesktopApplications\oroklesGyak\obj\Debug\net7.0\oroklesGyak.genruntimeconfig.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\oroklesGyak\obj\Debug\net7.0\ref\oroklesGyak.dll
