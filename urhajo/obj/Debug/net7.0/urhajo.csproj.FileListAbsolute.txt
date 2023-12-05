@@ -1,0 +1,15 @@
+C:\Users\Balázs\Documents\Git\Backend\urhajo\bin\Debug\net7.0\urhajo.exe
+C:\Users\Balázs\Documents\Git\Backend\urhajo\bin\Debug\net7.0\Urhajok.txt
+C:\Users\Balázs\Documents\Git\Backend\urhajo\bin\Debug\net7.0\urhajo.deps.json
+C:\Users\Balázs\Documents\Git\Backend\urhajo\bin\Debug\net7.0\urhajo.runtimeconfig.json
+C:\Users\Balázs\Documents\Git\Backend\urhajo\bin\Debug\net7.0\urhajo.dll
+C:\Users\Balázs\Documents\Git\Backend\urhajo\bin\Debug\net7.0\urhajo.pdb
+C:\Users\Balázs\Documents\Git\Backend\urhajo\obj\Debug\net7.0\urhajo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balázs\Documents\Git\Backend\urhajo\obj\Debug\net7.0\urhajo.AssemblyInfoInputs.cache
+C:\Users\Balázs\Documents\Git\Backend\urhajo\obj\Debug\net7.0\urhajo.AssemblyInfo.cs
+C:\Users\Balázs\Documents\Git\Backend\urhajo\obj\Debug\net7.0\urhajo.csproj.CoreCompileInputs.cache
+C:\Users\Balázs\Documents\Git\Backend\urhajo\obj\Debug\net7.0\urhajo.dll
+C:\Users\Balázs\Documents\Git\Backend\urhajo\obj\Debug\net7.0\refint\urhajo.dll
+C:\Users\Balázs\Documents\Git\Backend\urhajo\obj\Debug\net7.0\urhajo.pdb
+C:\Users\Balázs\Documents\Git\Backend\urhajo\obj\Debug\net7.0\urhajo.genruntimeconfig.cache
+C:\Users\Balázs\Documents\Git\Backend\urhajo\obj\Debug\net7.0\ref\urhajo.dll
