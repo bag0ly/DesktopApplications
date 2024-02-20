@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="login.Page"
+             Title="Page">
+    <VerticalStackLayout>
+        <Label
+            Text="Üdvözöljük"
+            x:Name="WelcomeMessage"/>
+        <Label
+            Text="List"/>
+        <ListView x:Name="Datalist"
+                  HorizontalOptions="Center" 
+                  BackgroundColor="#1F2A71">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        
+        <Entry
+            x:Name="textbox"/>
+
+        <Button
+            x:Name="ListAdd"
+            Text="ListAdd"
+            Clicked="OnListAddClicked"
+            HorizontalOptions="Center" 
+            />
+
+        <Button
+            x:Name="Insert"
+            Text="Insert"
+            Clicked="OnInsertClicked"
+            HorizontalOptions="Center" 
+            />
+
+        <Button
+            x:Name="Delete"
+            Text="Delete"
+            Clicked="OnDeleteClicked"
+            HorizontalOptions="Center" 
+            />
+
+        <Button
+            x:Name="DeleteById"
+            Text="DeleteById"
+            Clicked="OnDeleteByIdClicked"
+            HorizontalOptions="Center" 
+            />
+
+        <Button
+            x:Name="Save"
+            Text="Save"
+            Clicked="OnSaveClicked"
+            HorizontalOptions="Center" 
+            />
+
+        <Button
+            x:Name="Load"
+            Text="Load"
+            Clicked="OnLoadClicked"
+            HorizontalOptions="Center" 
+            />
+    </VerticalStackLayout>
+</ContentPage>

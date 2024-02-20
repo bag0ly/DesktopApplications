@@ -1,0 +1,1 @@
+C:\Users\Balázs\Documents\Git\DesktopApplications\login\login.csproj;x64

@@ -1,0 +1,7 @@
+C:\Users\Balázs\Documents\Git\DesktopApplications\tesztelosdolgozat\bin\Debug\tesztelosdolgozat.exe.config
+C:\Users\Balázs\Documents\Git\DesktopApplications\tesztelosdolgozat\bin\Debug\tesztelosdolgozat.exe
+C:\Users\Balázs\Documents\Git\DesktopApplications\tesztelosdolgozat\bin\Debug\tesztelosdolgozat.pdb
+C:\Users\Balázs\Documents\Git\DesktopApplications\tesztelosdolgozat\obj\Debug\tesztelosdolgozat.csproj.AssemblyReference.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\tesztelosdolgozat\obj\Debug\tesztelosdolgozat.csproj.CoreCompileInputs.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\tesztelosdolgozat\obj\Debug\tesztelosdolgozat.exe
+C:\Users\Balázs\Documents\Git\DesktopApplications\tesztelosdolgozat\obj\Debug\tesztelosdolgozat.pdb
