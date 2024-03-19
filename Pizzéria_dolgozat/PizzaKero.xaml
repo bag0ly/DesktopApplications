@@ -1,0 +1,74 @@
+﻿<Window x:Class="Pizzéria_dolgozat.PizzaKero"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pizzéria_dolgozat"
+        mc:Ignorable="d"
+        Background="Bisque"
+        Title="PizzaKero" Height="450" Width="800">
+    <Grid Height="434" VerticalAlignment="Bottom">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="229*"/>
+            <RowDefinition Height="205*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Menü választék" HorizontalAlignment="Center" FontSize="30" Height="54" VerticalAlignment="Top"/>
+        <Border x:Name="Pizzak" HorizontalAlignment="Center" Height="250px" Width="700" Background="PapayaWhip" Margin="0,59,0,0" VerticalAlignment="Top" Grid.RowSpan="2">
+
+
+        </Border>
+        <RadioButton Margin="293,0,0,110" x:Name="Rd_Veg1" GroupName="Radio_btn12" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="150" Height="27" FontSize="15" >
+            890 Ft
+        </RadioButton>
+        <RadioButton Margin="368,0,0,121" x:Name="Rd_Veg2" GroupName="Radio_btn12" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="150" Height="16" FontSize="15" >
+            890 Ft
+        </RadioButton>
+        <RadioButton Margin="293,124,0,0" Name="Rd_Magy1" GroupName="Radio_btn34" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Height="22" FontSize="15" >
+            950 Ft
+        </RadioButton>
+        <RadioButton Margin="368,126,0,0" Name="Rd_Magy2" GroupName="Radio_btn34" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Height="14" FontSize="15" >
+            950 Ft
+        </RadioButton>
+        <RadioButton Margin="293,0,0,55" Name="Rd_Som1" GroupName="Radio_btn56" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="150" Height="16" FontSize="15" >
+            990 Ft
+        </RadioButton>
+        <RadioButton Margin="368,0,0,55" Name="Rd_Som2" GroupName="Radio_btn56" VerticalAlignment="Bottom" Height="16" HorizontalAlignment="Left" Width="150" FontSize="15" >
+            990 Ft
+        </RadioButton>
+        <RadioButton Margin="293,0,0,23" Name="Rd_Med1" GroupName="Radio_btn78" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="150" Height="16" FontSize="15" >
+            1090 Ft
+        </RadioButton>
+        <RadioButton Margin="368,0,0,23" Name="Rd_Med2" GroupName="Radio_btn78" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="150" Height="16" FontSize="15" >
+            1090 Ft
+        </RadioButton>
+        <RadioButton Margin="293,218,0,0" Name="Rd_Ton1" GroupName="Radio_btn910" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Height="32" Grid.RowSpan="2" FontSize="15" >
+            980 Ft
+        </RadioButton>
+        <RadioButton Margin="368,0,0,200" Name="Rd_Ton2" GroupName="Radio_btn910" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="150" Height="16" Grid.RowSpan="2" FontSize="15" >
+            980 Ft
+        </RadioButton>
+        <CheckBox x:Name="Veg" Height="22" VerticalAlignment="Top" HorizontalAlignment="Left" Width="87" Margin="91,92,0,0" Content="def" FontSize="15" />
+        <CheckBox x:Name="Magy" Height="20" VerticalAlignment="Top" HorizontalAlignment="Left" Width="87" Margin="91,126,0,0" Content="def" FontSize="15" />
+        <CheckBox x:Name="Som" Height="16" VerticalAlignment="Top" HorizontalAlignment="Left" Width="87" Margin="91,158,0,0" Content="def" FontSize="15" />
+        <CheckBox x:Name="Med" Height="16" VerticalAlignment="Top" HorizontalAlignment="Left" Width="87" Margin="91,214,0,0" Content="def" Grid.RowSpan="2" FontSize="15" />
+        <CheckBox x:Name="Ton" Height="16" VerticalAlignment="Top" HorizontalAlignment="Left" Width="87" Margin="91,190,0,0" Content="def" FontSize="15" />
+
+        <TextBox Height="22" VerticalAlignment="Top" HorizontalAlignment="Left" Width="150" Margin="492,125,0,0"/>
+        <TextBox Height="22" VerticalAlignment="Top" HorizontalAlignment="Left" Width="150" Margin="492,158,0,0"/>
+        <TextBox Height="22" VerticalAlignment="Top" HorizontalAlignment="Left" Width="150" Margin="492,191,0,0"/>
+        <TextBox Height="22" VerticalAlignment="Top" HorizontalAlignment="Left" Width="150" Margin="492,223,0,0" Grid.RowSpan="2"/>
+
+        <Label Content="darab" Margin="671,92,79,107"/>
+        <Label Content="darab" Margin="671,123,79,76" />
+        <Label Content="darab" Margin="671,156,79,43"/>
+        <Label Content="darab" Margin="671,187,79,12"/>
+        <Label Content="darab" Margin="671,219,79,185" Grid.RowSpan="2"/>
+
+        <TextBox Height="22" VerticalAlignment="Top" HorizontalAlignment="Left" Width="150" Margin="492,92,0,0"/>
+        <Button Content="Számol" Height="25" Width="70" Click="Button_Click" Margin="65,103,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Row="1" />
+        <Label Content="Fizetendő:" Foreground="Red" Margin="0,99,504,0" Width="116" RenderTransformOrigin="0.5,0.5" Height="43" VerticalAlignment="Top" Grid.Row="1" HorizontalAlignment="Right" FontSize="15"/>
+        <TextBox HorizontalAlignment="Left" Width="150" Height="25" VerticalAlignment="Top" Margin="267,103,0,0" Grid.Row="1" IsEnabled="False"/>
+        <Button Content="Töröl" Height="25" Width="70" Click="Button_Click" Margin="65,0,0,27" VerticalAlignment="Bottom" HorizontalAlignment="Left" Grid.Row="1"/>
+        <Button Height="25" Width="70" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="661,153,0,0" Grid.Row="1" Content="Bezár" Click="Button_Click_1"/>
+    </Grid>
+</Window>

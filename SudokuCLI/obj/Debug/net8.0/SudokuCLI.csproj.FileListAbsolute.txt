@@ -1,0 +1,16 @@
+C:\Users\Balázs\Documents\Git\DesktopApplications\SudokuCLI\bin\Debug\net8.0\SudokuCLI.exe
+C:\Users\Balázs\Documents\Git\DesktopApplications\SudokuCLI\bin\Debug\net8.0\feladvanyok.txt
+C:\Users\Balázs\Documents\Git\DesktopApplications\SudokuCLI\bin\Debug\net8.0\SudokuCLI.deps.json
+C:\Users\Balázs\Documents\Git\DesktopApplications\SudokuCLI\bin\Debug\net8.0\SudokuCLI.runtimeconfig.json
+C:\Users\Balázs\Documents\Git\DesktopApplications\SudokuCLI\bin\Debug\net8.0\SudokuCLI.dll
+C:\Users\Balázs\Documents\Git\DesktopApplications\SudokuCLI\bin\Debug\net8.0\SudokuCLI.pdb
+C:\Users\Balázs\Documents\Git\DesktopApplications\SudokuCLI\obj\Debug\net8.0\SudokuCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balázs\Documents\Git\DesktopApplications\SudokuCLI\obj\Debug\net8.0\SudokuCLI.AssemblyInfoInputs.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\SudokuCLI\obj\Debug\net8.0\SudokuCLI.AssemblyInfo.cs
+C:\Users\Balázs\Documents\Git\DesktopApplications\SudokuCLI\obj\Debug\net8.0\SudokuCLI.csproj.CoreCompileInputs.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\SudokuCLI\obj\Debug\net8.0\SudokuCLI.sourcelink.json
+C:\Users\Balázs\Documents\Git\DesktopApplications\SudokuCLI\obj\Debug\net8.0\SudokuCLI.dll
+C:\Users\Balázs\Documents\Git\DesktopApplications\SudokuCLI\obj\Debug\net8.0\refint\SudokuCLI.dll
+C:\Users\Balázs\Documents\Git\DesktopApplications\SudokuCLI\obj\Debug\net8.0\SudokuCLI.pdb
+C:\Users\Balázs\Documents\Git\DesktopApplications\SudokuCLI\obj\Debug\net8.0\SudokuCLI.genruntimeconfig.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\SudokuCLI\obj\Debug\net8.0\ref\SudokuCLI.dll

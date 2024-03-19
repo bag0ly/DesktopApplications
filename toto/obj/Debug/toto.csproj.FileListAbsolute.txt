@@ -1,0 +1,8 @@
+C:\Users\Balázs\Documents\Git\DesktopApplications\toto\bin\Debug\toto.txt
+C:\Users\Balázs\Documents\Git\DesktopApplications\toto\bin\Debug\toto.exe.config
+C:\Users\Balázs\Documents\Git\DesktopApplications\toto\bin\Debug\toto.exe
+C:\Users\Balázs\Documents\Git\DesktopApplications\toto\bin\Debug\toto.pdb
+C:\Users\Balázs\Documents\Git\DesktopApplications\toto\obj\Debug\toto.csproj.AssemblyReference.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\toto\obj\Debug\toto.csproj.CoreCompileInputs.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\toto\obj\Debug\toto.exe
+C:\Users\Balázs\Documents\Git\DesktopApplications\toto\obj\Debug\toto.pdb

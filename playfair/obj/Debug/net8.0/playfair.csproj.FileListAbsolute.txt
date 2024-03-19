@@ -1,0 +1,16 @@
+C:\Users\Balázs\Documents\Git\DesktopApplications\playfair\bin\Debug\net8.0\playfair.exe
+C:\Users\Balázs\Documents\Git\DesktopApplications\playfair\bin\Debug\net8.0\playfair.deps.json
+C:\Users\Balázs\Documents\Git\DesktopApplications\playfair\bin\Debug\net8.0\playfair.runtimeconfig.json
+C:\Users\Balázs\Documents\Git\DesktopApplications\playfair\bin\Debug\net8.0\playfair.dll
+C:\Users\Balázs\Documents\Git\DesktopApplications\playfair\bin\Debug\net8.0\playfair.pdb
+C:\Users\Balázs\Documents\Git\DesktopApplications\playfair\obj\Debug\net8.0\playfair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balázs\Documents\Git\DesktopApplications\playfair\obj\Debug\net8.0\playfair.AssemblyInfoInputs.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\playfair\obj\Debug\net8.0\playfair.AssemblyInfo.cs
+C:\Users\Balázs\Documents\Git\DesktopApplications\playfair\obj\Debug\net8.0\playfair.csproj.CoreCompileInputs.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\playfair\obj\Debug\net8.0\playfair.sourcelink.json
+C:\Users\Balázs\Documents\Git\DesktopApplications\playfair\obj\Debug\net8.0\playfair.dll
+C:\Users\Balázs\Documents\Git\DesktopApplications\playfair\obj\Debug\net8.0\refint\playfair.dll
+C:\Users\Balázs\Documents\Git\DesktopApplications\playfair\obj\Debug\net8.0\playfair.pdb
+C:\Users\Balázs\Documents\Git\DesktopApplications\playfair\obj\Debug\net8.0\playfair.genruntimeconfig.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\playfair\obj\Debug\net8.0\ref\playfair.dll
+C:\Users\Balázs\Documents\Git\DesktopApplications\playfair\bin\Debug\net8.0\kulcstabla.txt
