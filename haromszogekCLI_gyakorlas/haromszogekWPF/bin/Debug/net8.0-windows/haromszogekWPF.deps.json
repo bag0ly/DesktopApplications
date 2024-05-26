@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "haromszogekWPF/1.0.0": {
+        "dependencies": {
+          "haromszogekCLI_gyakorlas": "1.0.0"
+        },
+        "runtime": {
+          "haromszogekWPF.dll": {}
+        }
+      },
+      "haromszogekCLI_gyakorlas/1.0.0": {
+        "runtime": {
+          "haromszogekCLI_gyakorlas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "haromszogekWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "haromszogekCLI_gyakorlas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

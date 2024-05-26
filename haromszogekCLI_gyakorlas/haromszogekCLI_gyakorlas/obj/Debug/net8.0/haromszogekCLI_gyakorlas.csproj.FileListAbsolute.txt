@@ -1,0 +1,16 @@
+E:\Git\DesktopApplications\haromszogekCLI_gyakorlas\haromszogekCLI_gyakorlas\bin\Debug\net8.0\haromszogekCLI_gyakorlas.exe
+E:\Git\DesktopApplications\haromszogekCLI_gyakorlas\haromszogekCLI_gyakorlas\bin\Debug\net8.0\haromszogek2.csv
+E:\Git\DesktopApplications\haromszogekCLI_gyakorlas\haromszogekCLI_gyakorlas\bin\Debug\net8.0\haromszogekCLI_gyakorlas.deps.json
+E:\Git\DesktopApplications\haromszogekCLI_gyakorlas\haromszogekCLI_gyakorlas\bin\Debug\net8.0\haromszogekCLI_gyakorlas.runtimeconfig.json
+E:\Git\DesktopApplications\haromszogekCLI_gyakorlas\haromszogekCLI_gyakorlas\bin\Debug\net8.0\haromszogekCLI_gyakorlas.dll
+E:\Git\DesktopApplications\haromszogekCLI_gyakorlas\haromszogekCLI_gyakorlas\bin\Debug\net8.0\haromszogekCLI_gyakorlas.pdb
+E:\Git\DesktopApplications\haromszogekCLI_gyakorlas\haromszogekCLI_gyakorlas\obj\Debug\net8.0\haromszogekCLI_gyakorlas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\DesktopApplications\haromszogekCLI_gyakorlas\haromszogekCLI_gyakorlas\obj\Debug\net8.0\haromszogekCLI_gyakorlas.AssemblyInfoInputs.cache
+E:\Git\DesktopApplications\haromszogekCLI_gyakorlas\haromszogekCLI_gyakorlas\obj\Debug\net8.0\haromszogekCLI_gyakorlas.AssemblyInfo.cs
+E:\Git\DesktopApplications\haromszogekCLI_gyakorlas\haromszogekCLI_gyakorlas\obj\Debug\net8.0\haromszogekCLI_gyakorlas.csproj.CoreCompileInputs.cache
+E:\Git\DesktopApplications\haromszogekCLI_gyakorlas\haromszogekCLI_gyakorlas\obj\Debug\net8.0\haromszogekCLI_gyakorlas.sourcelink.json
+E:\Git\DesktopApplications\haromszogekCLI_gyakorlas\haromszogekCLI_gyakorlas\obj\Debug\net8.0\haromszogekCLI_gyakorlas.dll
+E:\Git\DesktopApplications\haromszogekCLI_gyakorlas\haromszogekCLI_gyakorlas\obj\Debug\net8.0\refint\haromszogekCLI_gyakorlas.dll
+E:\Git\DesktopApplications\haromszogekCLI_gyakorlas\haromszogekCLI_gyakorlas\obj\Debug\net8.0\haromszogekCLI_gyakorlas.pdb
+E:\Git\DesktopApplications\haromszogekCLI_gyakorlas\haromszogekCLI_gyakorlas\obj\Debug\net8.0\haromszogekCLI_gyakorlas.genruntimeconfig.cache
+E:\Git\DesktopApplications\haromszogekCLI_gyakorlas\haromszogekCLI_gyakorlas\obj\Debug\net8.0\ref\haromszogekCLI_gyakorlas.dll
