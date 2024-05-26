@@ -1,0 +1,8 @@
+C:\Users\Balázs\Documents\Git\DesktopApplications\Iskola_fb\bin\x86\Debug\nevek.txt
+C:\Users\Balázs\Documents\Git\DesktopApplications\Iskola_fb\bin\x86\Debug\Iskola_fb.exe.config
+C:\Users\Balázs\Documents\Git\DesktopApplications\Iskola_fb\bin\x86\Debug\Iskola_fb.exe
+C:\Users\Balázs\Documents\Git\DesktopApplications\Iskola_fb\bin\x86\Debug\Iskola_fb.pdb
+C:\Users\Balázs\Documents\Git\DesktopApplications\Iskola_fb\obj\x86\Debug\Iskola_fb.csproj.AssemblyReference.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\Iskola_fb\obj\x86\Debug\Iskola_fb.csproj.CoreCompileInputs.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\Iskola_fb\obj\x86\Debug\Iskola_fb.exe
+C:\Users\Balázs\Documents\Git\DesktopApplications\Iskola_fb\obj\x86\Debug\Iskola_fb.pdb

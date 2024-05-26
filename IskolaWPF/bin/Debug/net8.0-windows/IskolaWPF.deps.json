@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IskolaWPF/1.0.0": {
+        "dependencies": {
+          "Iskola_fb": "1.0.0"
+        },
+        "runtime": {
+          "IskolaWPF.dll": {}
+        }
+      },
+      "Iskola_fb/1.0.0": {
+        "runtime": {
+          "Iskola_fb.exe": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IskolaWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Iskola_fb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

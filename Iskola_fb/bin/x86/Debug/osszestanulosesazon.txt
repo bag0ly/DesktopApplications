@@ -1,0 +1,650 @@
+Neve: Bodnar Szilvia Azon: 6cbodszi
+Neve: Rasztik Gyorgy Azon: 5brasgyo
+Neve: Muller Reka Azon: 6emulrek
+Neve: Maltesics Fanni Azon: 5bmalfan
+Neve: Csermak Edit Azon: 7acseedi
+Neve: Somlyo Ildiko Azon: 6asomild
+Neve: Boros Petra Azon: 7cborpet
+Neve: Gaal Daniel Azon: 4dgaadan
+Neve: Hirth Ferenc Azon: 7ahirfer
+Neve: Nagy Katalin Azon: 4anagkat
+Neve: Csepregi Daniel Azon: 4dcsedan
+Neve: Kovacs Orsolya Azon: 5bkovors
+Neve: Refi Csaba Azon: 4erefcsa
+Neve: Denes Anna Azon: 4bdenann
+Neve: Szabo Brigitta Azon: 4bszabri
+Neve: Huszar Renato Pal Azon: 4chusren
+Neve: Kovacs Zsofia Azon: 4dkovzso
+Neve: Vavrek Kristof Azon: 4dvavkri
+Neve: Hidas Reka Azon: 6ehidrek
+Neve: Kun Michael Azon: 6dkunmic
+Neve: Ruff Noemi Azon: 7arufnoe
+Neve: Berze Eva Azon: 7bbereva
+Neve: Endredy Lakatos Margit Azon: 4aendlak
+Neve: Salanki Eszter Rita Azon: 4bsalesz
+Neve: Magyar Vivien Evelin Azon: 5dmagviv
+Neve: Csermak Roza Azon: 7acseroz
+Neve: Barta Gergo Azon: 7dbarger
+Neve: Dobos Andras Azon: 6ddoband
+Neve: Magat Klaudia Azon: 4amagkla
+Neve: Schmidt Borbala Azon: 4cschbor
+Neve: Szabo Mihaly Azon: 5aszamih
+Neve: Boganyi Margaret Azon: 4dbogmar
+Neve: Weidinger Peter Azon: 5dweipet
+Neve: Petrik Zsofia Azon: 7epetzso
+Neve: Tolcsvay-Nagy Reka Luca Azon: 4atolrek
+Neve: Fabian Aniko Azon: 5efabani
+Neve: Berndt Martin Azon: 4cbermar
+Neve: Matefi Mercedesz Azon: 5ematmer
+Neve: Matefi Emese Azon: 5amateme
+Neve: Orso Andras Azon: 5dorsand
+Neve: Varga Zsuzsa Azon: 6evarzsu
+Neve: Farkas Zsuzsa Azon: 7afarzsu
+Neve: Romhanyi Daniel Robert Azon: 7eromdan
+Neve: Falvay Zsanett Azon: 4efalzsa
+Neve: Szentes Zoltan Azon: 4bszezol
+Neve: Csepregi Gyorgy Azon: 7ccsegyo
+Neve: Romhanyi Rebeka Azon: 4dromreb
+Neve: Laczko Reka Azon: 4blacrek
+Neve: Kardos Istvan Azon: 7ekarist
+Neve: Janosi Mihaly Azon: 6ajanmih
+Neve: Farkas Steven Azon: 7bfarste
+Neve: Horvath Janet Azon: 7bhorjan
+Neve: Csaba Dora Azon: 5ecsador
+Neve: Kucsera Jesus Azon: 7dkucjes
+Neve: Csepregi Mihaly Azon: 7ccsemih
+Neve: LotsosRicky Kinga Azon: 5alotkin
+Neve: Hozman Richard Azon: 4bhozric
+Neve: Rasztik Dora Azon: 6drasdor
+Neve: Dohoczki Maria Azon: 7adohmar
+Neve: Maller Akos Azon: 5amalako
+Neve: Bene Eszter Azon: 4ebenesz
+Neve: Wagner Endre Azon: 6bwagend
+Neve: Bengi Sandor Azon: 6bbensan
+Neve: Lehotzky Oliver Azon: 7dleholi
+Neve: Bakos Reka Azon: 6dbakrek
+Neve: Varga Zsofia Azon: 7bvarzso
+Neve: Hangyasi Kristof Azon: 5bhankri
+Neve: Gonda Gyorgy Azon: 6dgongyo
+Neve: Stang Tamas Azon: 4cstatam
+Neve: Nemeth Tamas Azon: 5enemtam
+Neve: Tapai Anne Azon: 7etapann
+Neve: Deri Dina Azon: 7bderdin
+Neve: Madarasz Edina Azon: 7bmadedi
+Neve: Lemak Veronika Azon: 5elemver
+Neve: Kiraly Balint Azon: 6ekirbal
+Neve: Kovacs Krisztina Judit Azon: 7akovkri
+Neve: Homola Sandor Azon: 7bhomsan
+Neve: Dettai Felicia Azon: 6edetfel
+Neve: Novak Beata Azon: 4dnovbea
+Neve: Hirth Janos Azon: 5chirjan
+Neve: Nagymarosy Natalie Azon: 7bnagnat
+Neve: Mattyus Balazs Azon: 6cmatbal
+Neve: Gonda Bela Azon: 5agonbel
+Neve: Wagner Istvan Azon: 6cwagist
+Neve: Hegyi Roza Azon: 7bhegroz
+Neve: Hatala Roza Azon: 7dhatroz
+Neve: Vaszil Krisztina Azon: 7evaskri
+Neve: Vanyur Reka Azon: 5dvanrek
+Neve: Bajor Mark Azon: 4dbajmar
+Neve: Kriszten David Azon: 5dkridav
+Neve: Molnar Adam Azon: 6emolada
+Neve: Palinkas Antal Azon: 7epalant
+Neve: Bruder Barbara Azon: 7cbrubar
+Neve: Pifku Bence Azon: 4bpifben
+Neve: Joo Peter Azon: 5ejoopet
+Neve: Kiss Beatrix Azon: 6bkisbea
+Neve: Sandor Miklos Azon: 6csanmik
+Neve: Berezvai Jozsef Azon: 6bberjoz
+Neve: Lehotzky Arthur Azon: 5alehart
+Neve: Mangult Bettina Azon: 7emanbet
+Neve: Joo Krisztian Azon: 5bjookri
+Neve: Sitku Natalia Azon: 5csitnat
+Neve: Bodnar Richard Azon: 5abodric
+Neve: Szabo David Azon: 7bszadav
+Neve: Wolff Viktoria Azon: 4bwolvik
+Neve: Varga Gergely Azon: 5evarger
+Neve: Monostori Mihaly Azon: 5bmonmih
+Neve: Balogh Dora Azon: 6bbaldor
+Neve: Nagy Judit Azon: 4enagjud
+Neve: Kulcsar Tamas Azon: 6bkultam
+Neve: Hangyasi Boglarka Azon: 4chanbog
+Neve: Kovacs Gabor Azon: 5ekovgab
+Neve: Pridalko Vilmos Azon: 4eprivil
+Neve: Kovacs Aron Azon: 6akovaro
+Neve: Buchanan Zoltan Csaba Azon: 7bbuczol
+Neve: Molnar Viktoria Azon: 5amolvik
+Neve: Fule Noemi Azon: 6dfulnoe
+Neve: Erdohelyi Csilla Azon: 6cerdcsi
+Neve: Renyi Ferenc Azon: 4arenfer
+Neve: Kophazi Ildiko Azon: 4dkopild
+Neve: Kis Viktoria Azon: 4dkisvik
+Neve: Fuller Zsuzsanna Azon: 4efulzsu
+Neve: Csanyi Zsuzsa Azon: 5ccsazsu
+Neve: Sarvari Piroska Azon: 7bsarpir
+Neve: Balazs Pal Azon: 7ebalpal
+Neve: Mezo Sandor Azon: 4bmezsan
+Neve: Wellington Tunde Azon: 6cweltun
+Neve: Gombos Beata Azon: 4egombea
+Neve: Bordas Vivien Evelin Azon: 7aborviv
+Neve: Kocsis Gergo Azon: 4ckocger
+Neve: Callahan Kitti Azon: 5ecalkit
+Neve: Bodor Bettina Azon: 5abodbet
+Neve: Schiller Krisztina Azon: 4dschkri
+Neve: Balogh Agnes Azon: 6abalagn
+Neve: Vadkerti Viktoria Azon: 5bvadvik
+Neve: Lehotzky Gabor Azon: 5dlehgab
+Neve: Keri Marta Azon: 7ckermar
+Neve: Sarosdi Dora Azon: 7asardor
+Neve: Hargitai Ildiko Azon: 7charild
+Neve: Mate Aron Azon: 7bmataro
+Neve: Stang Istvan Azon: 6cstaist
+Neve: Pal Janos Azon: 7cpaljan
+Neve: Negyesi Attila Azon: 7cnegatt
+Neve: Szalma Diana Azon: 5cszadia
+Neve: Szabo Jesus Azon: 5eszajes
+Neve: Tapay Janos Tamas Azon: 7dtapjan
+Neve: Balazs Istvan Azon: 4abalist
+Neve: Bogar Marta Azon: 4ebogmar
+Neve: Toman Istvan Azon: 4etomist
+Neve: Balogh Edina Azon: 5abaledi
+Neve: Nemeth Diana Azon: 5bnemdia
+Neve: Lehotzky Adam Gabor Azon: 4alehada
+Neve: Karatson Kristof Azon: 4ckarkri
+Neve: Batkai Kinga Azon: 5dbatkin
+Neve: Domokos Tunde Azon: 5cdomtun
+Neve: Barkasz Csilla Azon: 7dbarcsi
+Neve: Hidas Zoltan Csaba Azon: 4dhidzol
+Neve: Bohdaneczky Adrienn Azon: 5bbohadr
+Neve: Hamza Vivien Azon: 4ehamviv
+Neve: Valo Adam Gabor Azon: 5bvalada
+Neve: Mate Laszlo Azon: 7cmatlas
+Neve: Bodnar Emese Azon: 6cbodeme
+Neve: Jedlovszky Gellert Sandor Azon: 5ejedgel
+Neve: Takacs Melinda Azon: 6atakmel
+Neve: Barta Gergo Azon: 7bbarger
+Neve: Somlyo Steven Azon: 6asomste
+Neve: Lehotzky Janos Azon: 6dlehjan
+Neve: Kiss Reka Azon: 6ekisrek
+Neve: Hatala Ilona Azon: 5chatilo
+Neve: Nagy Janos Azon: 7bnagjan
+Neve: Szekely Mate Azon: 7aszemat
+Neve: King Mercedesz Azon: 5dkinmer
+Neve: Szabados Viktoria Azon: 6aszavik
+Neve: Tompos Adam Gabor Azon: 5etomada
+Neve: Bauer Krisztina Azon: 6dbaukri
+Neve: Major Anna Azon: 6bmajann
+Neve: Gyocsi Ildiko Azon: 7cgyoild
+Neve: Fulop Tamas Azon: 5cfultam
+Neve: Vajda Fruzsina Borbala Azon: 6avajfru
+Neve: Magat Noemi Azon: 7bmagnoe
+Neve: Schmidt Andras Azon: 5aschand
+Neve: Pinter Sandor Azon: 5epinsan
+Neve: Kiraly Istvan Azon: 5ckirist
+Neve: Bruder Krisztina Azon: 5ebrukri
+Neve: Mattyus Diana Azon: 5ematdia
+Neve: Gerse Andras Azon: 5agerand
+Neve: Elek Balazs Azon: 6aelebal
+Neve: Batkai Antal Azon: 6abatant
+Neve: Csepregi Korl Azon: 7ccsekor
+Neve: Dylski Judit Azon: 4cdyljud
+Neve: Bodi Monika Azon: 7bbodmon
+Neve: Kovacs Leila Azon: 7akovlei
+Neve: Rabai Viktoria Azon: 6brabvik
+Neve: Bolyos Borbala Azon: 6cbolbor
+Neve: Ignacz Mercedesz Marta Azon: 6dignmer
+Neve: Bodor Klara Azon: 5abodkla
+Neve: Batkai Szabina Azon: 6dbatsza
+Neve: Katona Boglarka Azon: 4ckatbog
+Neve: Gaal Peter Azon: 4bgaapet
+Neve: Kovacs Jozsef Azon: 5ckovjoz
+Neve: Domokos Krisztina Azon: 4adomkri
+Neve: TolcsvayNagy Daniel Robert Azon: 5dtoldan
+Neve: Fialowski Olga Zsofia Azon: 5bfiaolg
+Neve: Kiraly Zoltan Azon: 6akirzol
+Neve: Csermak Henrik Azon: 6ecsehen
+Neve: Ivancsik Edit Azon: 7divaedi
+Neve: Vagner Peter Azon: 4bvagpet
+Neve: Elbert Bence Azon: 7delbben
+Neve: Kun David Azon: 4bkundav
+Neve: Farkas Tunde Azon: 4cfartun
+Neve: Pazmany Emese Azon: 7dpazeme
+Neve: Iszaly Karoly Azon: 4diszkar
+Neve: Bihacker Szabolcs Tivadar Azon: 4cbihsza
+Neve: Karatson Patricia Mercedesz Azon: 4dkarpat
+Neve: Laczkovics Lakatos Margit Azon: 4dlaclak
+Neve: Kovacs Reka Azon: 6akovrek
+Neve: Ihasz Bernadett Azon: 7cihaber
+Neve: Molnar Krisztina Azon: 7dmolkri
+Neve: Komlos Lakatos Margit Azon: 7ekomlak
+Neve: Miskolczi Reka Azon: 6emisrek
+Neve: Borka Adam Gabor Azon: 6cborada
+Neve: Hollos Eva Azon: 6eholeva
+Neve: Szalma Erno Azon: 7bszaern
+Neve: Bodnar Gyula Azon: 7ebodgyu
+Neve: Krizsan Adrienn Azon: 4bkriadr
+Neve: Fekete Szilvia Azon: 4efekszi
+Neve: Zacher Karoly Azon: 6azackar
+Neve: Prokopp Reka Azon: 6aprorek
+Neve: Toman Zsofia Azon: 6ctomzso
+Neve: Pazmany Alessandro Azon: 5epazale
+Neve: Simon Szabolcs Tivadar Azon: 4esimsza
+Neve: Kuller Andrea Azon: 5ekuland
+Neve: Bognar Frank Azon: 6dbogfra
+Neve: Szalma Luca Krisztina Azon: 7cszaluc
+Neve: Keri Julio Azon: 4ekerjul
+Neve: Beres Zoltan Azon: 7dberzol
+Neve: Farkas Janet Azon: 4dfarjan
+Neve: Komlos Zoltan Azon: 5bkomzol
+Neve: Wootsch Gergely Azon: 7awooger
+Neve: Lehotzky Dorottya Azon: 7blehdor
+Neve: Valo Istvan Azon: 7cvalist
+Neve: Bilicska Daniel Robert Azon: 7cbildan
+Neve: Bako Balazs Istvan Azon: 6bbakbal
+Neve: Vari Renata Azon: 4dvarren
+Neve: Callahan Attila Azon: 5acalatt
+Neve: Antalfi Akos Azon: 4bantako
+Neve: Miller Gabor Azon: 7bmilgab
+Neve: Lemak Andrea Azon: 4elemand
+Neve: Csanyi Zsuzsa Azon: 6dcsazsu
+Neve: Csetnegi Andre Azon: 4acseand
+Neve: Cselotei Balazs Azon: 5dcsebal
+Neve: Voros Kitti Noemi Azon: 5dvorkit
+Neve: Denes Ildiko Azon: 6bdenild
+Neve: Czulek Gyorgy Azon: 6aczugyo
+Neve: Berze Dalma Azon: 7dberdal
+Neve: Lendvai Gyula Azon: 6dlengyu
+Neve: Kelan Istvan Azon: 5dkelist
+Neve: Boka Daniel Andras Azon: 7abokdan
+Neve: Pinter Tunde Azon: 6bpintun
+Neve: Peter Fruzsina Azon: 7epetfru
+Neve: Pazmany Kristof Azon: 4dpazkri
+Neve: Arkossy Daniel Azon: 7earkdan
+Neve: Berzlanovich Imre Azon: 4eberimr
+Neve: Denes Zsuzsa Azon: 6cdenzsu
+Neve: Bakos Gergely Azon: 6cbakger
+Neve: Hegedus Tamas Azon: 5chegtam
+Neve: Banfi Akos Azon: 5dbanako
+Neve: Kovacs Laura Azon: 6dkovlau
+Neve: Denes Gyorgy Azon: 5edengyo
+Neve: Horvath Gyorgy Azon: 4bhorgyo
+Neve: Klezly Bettina Azon: 4eklebet
+Neve: Szabo Ildiko Azon: 7dszaild
+Neve: Barkasz Katalin Azon: 6bbarkat
+Neve: Goldberg Marta Azon: 5dgolmar
+Neve: Farkas Gyorgy Azon: 6afargyo
+Neve: Emho Petra Azon: 7cemhpet
+Neve: Koschler Tamas Azon: 4bkostam
+Neve: Madarasz Nikolett Azon: 5amadnik
+Neve: Lemak Janos Azon: 4blemjan
+Neve: Kovacs Lajos Azon: 6akovlaj
+Neve: Orso Christopher Azon: 7borschr
+Neve: Prokopp Viktoria Azon: 6bprovik
+Neve: Beke Andras Azon: 6ebekand
+Neve: Denes Anna Azon: 7adenann
+Neve: Zsigmondi Zoltan Azon: 4bzsizol
+Neve: Csetnegi Szilvia Azon: 4bcseszi
+Neve: Ruff Gabor Azon: 5drufgab
+Neve: Szabo Attila Azon: 6cszaatt
+Neve: Fried Tamas Azon: 6dfritam
+Neve: Szabo Allan Azon: 5cszaall
+Neve: Forgacs Richard Azon: 5cforric
+Neve: Arkossy Reka Azon: 5barkrek
+Neve: Hangyasi Gyula Azon: 5dhangyu
+Neve: Hegedus Agnes Azon: 6ahegagn
+Neve: Malovics Reka Luca Azon: 6bmalrek
+Neve: Molnar Tamas Azon: 5cmoltam
+Neve: Illyes Erno Azon: 5aillern
+Neve: Cselotei Maria Azon: 5ccsemar
+Neve: Toman Beatrix Azon: 6btombea
+Neve: Meszaros Andrea Azon: 7emesand
+Neve: Totka Gergo Azon: 6btotger
+Neve: Mitlasovszki Mercedesz Azon: 5amitmer
+Neve: Horvath Csilla Livia Azon: 6bhorcsi
+Neve: Scholz Akos Azon: 6cschako
+Neve: Farkas Edit Azon: 5efaredi
+Neve: Unk Anne Azon: 4dunkann
+Neve: Monostori Gergo Azon: 5emonger
+Neve: Feher Viktoria Azon: 5afehvik
+Neve: Gombor Thomas Azon: 5egomtho
+Neve: Saghy Istvan Azon: 5esagist
+Neve: Katona Peter Azon: 5ekatpet
+Neve: Fialowski Szilvia Azon: 7efiaszi
+Neve: Kovacs Jozsef Azon: 4bkovjoz
+Neve: Wellington Peter Azon: 5cwelpet
+Neve: Suyama Krisztian Azon: 7asuykri
+Neve: Unk Eszter Azon: 6bunkesz
+Neve: Kettesy Zsofia Azon: 7eketzso
+Neve: Illes Viktoria Azon: 7aillvik
+Neve: Peter Peter Azon: 5epetpet
+Neve: Fried Eszter Leticia Azon: 7dfriesz
+Neve: Varga Brigitta Azon: 5avarbri
+Neve: Callahan Eszter Azon: 4ecalesz
+Neve: Eszes Ildiko Azon: 5eeszild
+Neve: Mezo Istvan Azon: 4bmezist
+Neve: Pomothy Gyorgy Azon: 4bpomgyo
+Neve: Berndt Oliver Azon: 5dberoli
+Neve: Pinter Tunde Azon: 6apintun
+Neve: Marton Richard Azon: 7cmarric
+Neve: Borka Edina Azon: 4dboredi
+Neve: Balogh Imre Azon: 6dbalimr
+Neve: Alahrawi Balint Azon: 5balabal
+Neve: Csaba Attila Azon: 4ccsaatt
+Neve: Homola Leila Azon: 4dhomlei
+Neve: Palfi Leila Azon: 4dpallei
+Neve: Ivacs Zsolt Azon: 7bivazso
+Neve: Farkas Dora Azon: 5efardor
+Neve: Mitlasovszki Eszter Adel Azon: 6amitesz
+Neve: Komlos Allan Azon: 7dkomall
+Neve: Szabo Janos Tamas Azon: 6eszajan
+Neve: Vido Jesus Azon: 7evidjes
+Neve: Csermenyi Balint Azon: 4ccsebal
+Neve: Bilicska Gyorgy Azon: 6ebilgyo
+Neve: Berghoffer David Azon: 5bberdav
+Neve: Bohdaneczky Arthur Azon: 6dbohart
+Neve: Maller Attila Azon: 6bmalatt
+Neve: Muller Karoly Azon: 4dmulkar
+Neve: Mangult Reka Azon: 5bmanrek
+Neve: Czmarko Istvan Azon: 6bczmist
+Neve: Jambrik Daniel Azon: 7ajamdan
+Neve: Lukacs Viktor Azon: 7alukvik
+Neve: Bolyos Adam Ferenc Azon: 5ebolada
+Neve: Hermann Istvan Azon: 7cherist
+Neve: Nagy Istvan Azon: 7dnagist
+Neve: Bekes Viktoria Azon: 4abekvik
+Neve: Elek Anne Azon: 6eeleann
+Neve: Balazs Nikolett Azon: 4bbalnik
+Neve: Ilcsik Bence Azon: 6cilcben
+Neve: Saghy Dorottya Azon: 5esagdor
+Neve: Palfi Vilmos Azon: 5apalvil
+Neve: Berky Renato Pal Azon: 5aberren
+Neve: Peacock Katalin Azon: 5cpeakat
+Neve: Reyes Adrienn Azon: 7breyadr
+Neve: Kovacs Patrik Azon: 6akovpat
+Neve: Gulyas Krisztina Azon: 6cgulkri
+Neve: Rakoczi Frank Azon: 4drakfra
+Neve: Barkasz Matyas Azon: 7dbarmat
+Neve: Beres Gyula Azon: 7dbergyu
+Neve: Pasztor Zsofia Azon: 4cpaszso
+Neve: Mangult Akos Azon: 4dmanako
+Neve: Kovacs Sandor Azon: 6akovsan
+Neve: Banfi Patricia Azon: 5cbanpat
+Neve: Orzoi Gyorgy Azon: 5corzgyo
+Neve: Bodnar Orsolya Azon: 4cbodors
+Neve: Kophazi Reka Nora Azon: 7ekoprek
+Neve: Ivacs Jozsef Azon: 6divajoz
+Neve: Sarkozi Bonita Azon: 5esarbon
+Neve: Denes Szabina Azon: 6cdensza
+Neve: Tombor Mercedesz Azon: 6etommer
+Neve: Erdei Daniel Andras Azon: 7aerddan
+Neve: King Tamas Azon: 4dkintam
+Neve: Erdelyi Botond Azon: 4derdbot
+Neve: Baksay Ildiko Azon: 5cbakild
+Neve: Palfi Gyorgy Azon: 4apalgyo
+Neve: Gyocsi Edit Azon: 5bgyoedi
+Neve: Matefi Antal Ferenc Azon: 5cmatant
+Neve: Ivancsik Reka Azon: 5divarek
+Neve: Gonda Edina Azon: 4cgonedi
+Neve: Vaszil Milan Azon: 5dvasmil
+Neve: Willkins Anna Azon: 4ewilann
+Neve: Emho Oliver Azon: 6demholi
+Neve: Meszaros Arpad Azon: 6emesarp
+Neve: Zsigmondi Eszter Azon: 4czsiesz
+Neve: Regos Peter Azon: 7aregpet
+Neve: Patkai Netta Azon: 5epatnet
+Neve: Kiss Balazs Istvan Azon: 5bkisbal
+Neve: Busi Dorottya Azon: 5abusdor
+Neve: Bajor Brigitta Azon: 5cbajbri
+Neve: Vajnai Zsofia Azon: 6avajzso
+Neve: Kovacs Lujein Azon: 6ekovluj
+Neve: Vancza Korl Azon: 6avankor
+Neve: Denes Katalin Azon: 4bdenkat
+Neve: Szikra Judit Azon: 7dszijud
+Neve: Jenes Andras Azon: 6cjenand
+Neve: Molnar Attila Azon: 6cmolatt
+Neve: Miskolczi Gabor Azon: 7cmisgab
+Neve: Fried Viktoria Azon: 5afrivik
+Neve: Szabados Marcell Azon: 6aszamar
+Neve: Csetnegi Zsofia Azon: 5ccsezso
+Neve: Csanyi Zsofia Azon: 6acsazso
+Neve: Banfi Kristof Azon: 5ebankri
+Neve: Fekete Istvan Azon: 6dfekist
+Neve: Bartha Eva Azon: 7dbareva
+Neve: Pomothy Gergo Azon: 7cpomger
+Neve: Fialowski Pal Azon: 5bfiapal
+Neve: Tverdota Nikolett Azon: 7etvenik
+Neve: Kovacs Marta Azon: 5ekovmar
+Neve: Berghoffer Theodor Azon: 6dberthe
+Neve: Nagy Bettina Azon: 4enagbet
+Neve: Fialowski Bettina Azon: 4afiabet
+Neve: Bator Adam Azon: 5bbatada
+Neve: Fekete Kinga Azon: 4bfekkin
+Neve: Dodsworth Noemi Azon: 4adodnoe
+Neve: Somlyo Karoly Azon: 5csomkar
+Neve: Ivancsik Istvan Azon: 4eivaist
+Neve: Komlos Korl Azon: 4akomkor
+Neve: Jenes Beatrix Azon: 7ajenbea
+Neve: Kovacs Botond Azon: 5akovbot
+Neve: Miskolczi Marton Istvan Azon: 4amismar
+Neve: Nemeth Eszter Rita Azon: 6anemesz
+Neve: Szedresi Gergely Azon: 7eszeger
+Neve: Bodor Gabor Azon: 6bbodgab
+Neve: Beres Ferenc Azon: 4aberfer
+Neve: Mate Pal Azon: 7cmatpal
+Neve: Sitku Patricia Mercedesz Azon: 6esitpat
+Neve: Nemeth Ferenc Azon: 6bnemfer
+Neve: Selley Szilvia Azon: 5aselszi
+Neve: Hangyasi Gabor Azon: 5bhangab
+Neve: Dorfler Tamas Azon: 7edortam
+Neve: Bordas Janos Oszkar Azon: 6eborjan
+Neve: Varga Theodor Azon: 5evarthe
+Neve: Wellington Zsofia Azon: 4dwelzso
+Neve: Csermenyi Zoltan Azon: 7acsezol
+Neve: Olay Zoltan Azon: 6aolazol
+Neve: Kiss Barbara Azon: 7ckisbar
+Neve: Drexler Eszter Azon: 4ddreesz
+Neve: Ivancsik Endre Azon: 6aivaend
+Neve: Hargitai Krisztina Azon: 6bharkri
+Neve: Szabados Alexandra Azon: 5eszaale
+Neve: Jakobi Lujein Azon: 4ajakluj
+Neve: Czmarko Viktoria Azon: 7bczmvik
+Neve: Kovacs Balazs Istvan Azon: 4akovbal
+Neve: Kelan Zsofia Azon: 5ckelzso
+Neve: Patkai Christopher Azon: 5dpatchr
+Neve: Kiss Mercedesz Azon: 7ekismer
+Neve: Szabo Gyula Azon: 5aszagyu
+Neve: Schneider Edit Azon: 5bschedi
+Neve: Bartha Zoltan Csaba Azon: 4cbarzol
+Neve: Kovacs Veronika Azon: 5dkovver
+Neve: Ivancsik Matyas Azon: 5eivamat
+Neve: Toman Barbara Azon: 7ctombar
+Neve: Selley Bernadett Azon: 4cselber
+Neve: Arkossy Vivien Evelin Azon: 5barkviv
+Neve: Macz Balazs Azon: 5bmacbal
+Neve: Szabo Andras Azon: 6bszaand
+Neve: Bilicska Viktoria Azon: 4abilvik
+Neve: Negyesi Andras Azon: 6cnegand
+Neve: Kovacs Anna Azon: 7ckovann
+Neve: Bodnar Frank Azon: 6bbodfra
+Neve: Farkas David Azon: 7bfardav
+Neve: Vari Erno Azon: 6cvarern
+Neve: Komlos Aniko Azon: 5bkomani
+Neve: Peter Dora Azon: 5bpetdor
+Neve: Pasztor Tunde Azon: 5epastun
+Neve: LotsosRicky Viktoria Azon: 7elotvik
+Neve: Meszaros Zoltan Azon: 7cmeszol
+Neve: Karatson Eszter Adel Azon: 7ckaresz
+Neve: Palfi Eszter Azon: 4cpalesz
+Neve: Kovacs Tamas Azon: 4dkovtam
+Neve: Kiss Renato Pal Azon: 5dkisren
+Neve: Batkai Csaba Azon: 6cbatcsa
+Neve: Kovacs David Azon: 7ekovdav
+Neve: Erdei Gyorgy Azon: 6derdgyo
+Neve: Fulop Bence Azon: 4cfulben
+Neve: Nemeth Nikolett Azon: 6cnemnik
+Neve: Lorinczi Barbara Azon: 4clorbar
+Neve: Kovacs Istvan Azon: 6ekovist
+Neve: Fekete Daniel Azon: 7afekdan
+Neve: Hozman Sandor Azon: 7ehozsan
+Neve: Pronay Tibor Azon: 7dprotib
+Neve: Homola Emese Azon: 6bhomeme
+Neve: Hollos Adrienn Azon: 6aholadr
+Neve: Sarvari Imre Azon: 7esarimr
+Neve: Batkai Richard Azon: 4ebatric
+Neve: Malovics Gergely Azon: 5cmalger
+Neve: Kardos Thomas Azon: 4ekartho
+Neve: Somogyvari Katalin Azon: 5esomkat
+Neve: Szanto Barnabas Azon: 6cszabar
+Neve: Kovacs Tunde Azon: 4bkovtun
+Neve: Bernath Peter Azon: 4bberpet
+Neve: Vasarhelyi Noemi Azon: 5evasnoe
+Neve: Onodi Eszter Adel Azon: 5aonoesz
+Neve: Maltesics Gergely Azon: 6cmalger
+Neve: Halasz Reka Azon: 5chalrek
+Neve: Lorinczi Orsolya Azon: 4blorors
+Neve: Varga Balazs Azon: 4cvarbal
+Neve: Csornyei Bence Azon: 6dcsoben
+Neve: Csornyei Csaba Azon: 6bcsocsa
+Neve: Bohdaneczky Marta Azon: 4bbohmar
+Neve: Rabai Aron Azon: 7arabaro
+Neve: Bartha Emil Azon: 5dbaremi
+Neve: Kis Martin Azon: 5akismar
+Neve: Erdei Maria Azon: 5berdmar
+Neve: Csermenyi Andras Azon: 5ecseand
+Neve: Deri Gergely Azon: 5ederger
+Neve: Varga Laura Azon: 7dvarlau
+Neve: Nagy Marcell Azon: 4bnagmar
+Neve: Farkas Zoltan Azon: 7dfarzol
+Neve: Ignacz Balazs Azon: 5bignbal
+Neve: Izsak Kristof Azon: 7bizskri
+Neve: Nagy Julio Azon: 5dnagjul
+Neve: Kovacs Peter Azon: 6bkovpet
+Neve: Kovacs Zsofia Azon: 4bkovzso
+Neve: Boros Tamas Azon: 5dbortam
+Neve: Drexler Ildiko Azon: 6adreild
+Neve: Fulop Peter Azon: 7afulpet
+Neve: Goldberg Sandor Azon: 7agolsan
+Neve: Szalma Fruzsina Azon: 7eszafru
+Neve: Somlyo Martin Azon: 4csommar
+Neve: Klezly Bence Azon: 5ckleben
+Neve: Kucsera Csaba Azon: 6bkuccsa
+Neve: Pinter Melinda Azon: 7apinmel
+Neve: Sandor Evelin Azon: 6csaneve
+Neve: Mattyus Anna Azon: 6bmatann
+Neve: Elek Bela Azon: 6eelebel
+Neve: Pal Antal Azon: 4apalant
+Neve: Csigas Maria Azon: 5ccsimar
+Neve: Reitmeyer Gabor Azon: 7breigab
+Neve: Pridalko Zsolt Azon: 5bprizso
+Neve: Bajor Sandor Azon: 7bbajsan
+Neve: Csepregi Kristof Azon: 7ccsekri
+Neve: Nagy Dina Azon: 7cnagdin
+Neve: Tompos Richard Azon: 5dtomric
+Neve: Weidinger Viktoria Azon: 5dweivik
+Neve: Berki Klaudia Azon: 5cberkla
+Neve: Emho Dorottya Azon: 6bemhdor
+Neve: Hardy Csilla Azon: 5eharcsi
+Neve: Farkas Andre Azon: 4afarand
+Neve: Balogh Aniko Azon: 6abalani
+Neve: Szentpetery Beatrix Azon: 6eszebea
+Neve: Salanki Fanni Azon: 5csalfan
+Neve: Csigas Jozsef Azon: 7dcsijoz
+Neve: Jambor Dora Azon: 4cjamdor
+Neve: Lehotzky Istvan Azon: 7alehist
+Neve: Miller Mercedesz Marta Azon: 4bmilmer
+Neve: Izsak Andrea Azon: 5bizsand
+Neve: Kiss Kristof Azon: 5dkiskri
+Neve: Resch Nancy Azon: 7aresnan
+Neve: Bodecs Roza Azon: 6dbodroz
+Neve: Simon Istvan Azon: 4csimist
+Neve: Refi Zoltan Azon: 5drefzol
+Neve: Jenes Arpad Azon: 7djenarp
+Neve: Maltesics Eszter Azon: 7bmalesz
+Neve: Peacock Kristen Azon: 7epeakri
+Neve: Tapay Istvan Azon: 7etapist
+Neve: Zsok Gabor Azon: 6czsogab
+Neve: Demeter Bence Azon: 7bdemben
+Neve: Vancza Zoltan Azon: 7bvanzol
+Neve: Endredy Adam Gabor Azon: 7dendada
+Neve: Davolio Fruzsina Borbala Azon: 5ddavfru
+Neve: Szentes Maria Azon: 4bszemar
+Neve: Mozsar Rezso Azon: 7bmozrez
+Neve: Hozman Piroska Azon: 6dhozpir
+Neve: Goldberg Beata Azon: 4bgolbea
+Neve: Sandor Tamas Azon: 6csantam
+Neve: Demeny Daniel Azon: 7edemdan
+Neve: Marton Dorottya Azon: 5bmardor
+Neve: Kovacs Mercedesz Marta Azon: 4ckovmer
+Neve: Tombor Erzsebet Azon: 6btomerz
+Neve: Farkas Monika Azon: 6afarmon
+Neve: Schneider Renato Pal Azon: 5dschren
+Neve: Domokos Gergely Azon: 4edomger
+Neve: Kulcsar Istvan Azon: 7bkulist
+Neve: Varga Emese Azon: 6dvareme
+Neve: Vari Laura Azon: 5cvarlau
+Neve: Muller Nikolett Azon: 4amulnik
+Neve: Sarvari Dorottya Azon: 6dsardor
+Neve: Vas Laura Azon: 7evaslau
+Neve: Hamza Erno Gergo Azon: 7ahamern
+Neve: Pomothy Eleonora Azon: 4dpomele
+Neve: Kiss Zsuzsa Azon: 6bkiszsu
+Neve: Bodor Attila Azon: 7cbodatt
+Neve: Forgacs Reka Azon: 4cforrek
+Neve: Cselotei Gergo Azon: 5bcseger
+Neve: Weidinger Richard Azon: 7cweiric
+Neve: Kovacs Anne Azon: 4bkovann
+Neve: Fuller Gabor Azon: 4cfulgab
+Neve: Kovacs Natalia Azon: 5akovnat
+Neve: Forgacs Beatrix Azon: 4cforbea
+Neve: Lemak Netta Azon: 7elemnet
+Neve: Keri Fruzsina Borbala Azon: 4ckerfru
+Neve: Selley Krisztian Azon: 4aselkri
+Neve: Elek Andrew Azon: 5deleand
+Neve: Gergely Anna Azon: 6bgerann
+Neve: Palinkas Luca Sara Azon: 7apalluc
+Neve: Kallai Arnold Azon: 4bkalarn
+Neve: Pifku Bettina Azon: 5dpifbet
+Neve: Buros Laszlo Endre Azon: 5dburlas
+Neve: Neher Sandor Azon: 4dnehsan
+Neve: Mirak Viktoria Azon: 7cmirvik
+Neve: Bognar Andras Azon: 7bbogand
+Neve: Bartha Balazs Azon: 7dbarbal
+Neve: Rosta Kristen Azon: 5broskri
+Neve: Tompos Istvan Azon: 7atomist
+Neve: Lendvai Kinga Azon: 5blenkin
+Neve: Deri Zsofia Azon: 5cderzso
+Neve: Zilahy Janet Azon: 4aziljan
+Neve: Czulek Veronika Azon: 7cczuver
+Neve: Klezly Dezso Azon: 4akledez
+Neve: Mate Rahel Azon: 6dmatrah
+Neve: Mattyus Nikoletta Azon: 6ematnik
+Neve: Berki Laszlo Ferenc Azon: 6cberlas
+Neve: Kiss Dezso Azon: 6ekisdez
+Neve: Iszaly Mercedesz Azon: 4diszmer
+Neve: Denes Gergo Azon: 6ddenger
+Neve: Smith Gabor Azon: 6asmigab
+Neve: Pal Krisztina Judit Azon: 4cpalkri
+Neve: Horvath Gabor Azon: 5chorgab
+Neve: Somogyvari Laura Azon: 7asomlau
+Neve: Pifku Erno Gergo Azon: 4epifern
+Neve: Berezvai Gergely Bence Azon: 6bberger
+Neve: Szekely Netta Azon: 4aszenet
+Neve: Gombaszogi Peter Azon: 5egompet
+Neve: Dorfler Barbara Azon: 5adorbar
+Neve: Pucheli Edina Azon: 5dpucedi
+Neve: Nemeth Tunde Azon: 6bnemtun
+Neve: Katona Balazs Azon: 5dkatbal
+Neve: Olay Kitti Noemi Azon: 7colakit
+Neve: Falvay Veronika Azon: 7dfalver
+Neve: Arany Olga Azon: 5caraolg
+Neve: Farkas Virag Azon: 6afarvir
+Neve: Knipf Krisztian Azon: 5cknikri
+Neve: Izsak Zoltan Azon: 7dizszol
+Neve: Tompos Zsofia Azon: 7etomzso
+Neve: Fialowski Tunde Azon: 6cfiatun
+Neve: Onodi Ildiko Azon: 7donoild
+Neve: Molnar Agnes Azon: 5cmolagn
+Neve: Pucheli Katalin Azon: 4bpuckat
+Neve: Eizen Szabina Azon: 4beizsza
+Neve: Major Tamas Azon: 4cmajtam
+Neve: Krizsan Vivien Evelin Azon: 6ckriviv

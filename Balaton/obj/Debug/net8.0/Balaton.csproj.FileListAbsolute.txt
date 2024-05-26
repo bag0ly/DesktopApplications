@@ -1,0 +1,16 @@
+C:\Users\Balázs\Documents\Git\DesktopApplications\Balaton\bin\Debug\net8.0\Balaton.exe
+C:\Users\Balázs\Documents\Git\DesktopApplications\Balaton\bin\Debug\net8.0\utca.txt
+C:\Users\Balázs\Documents\Git\DesktopApplications\Balaton\bin\Debug\net8.0\Balaton.deps.json
+C:\Users\Balázs\Documents\Git\DesktopApplications\Balaton\bin\Debug\net8.0\Balaton.runtimeconfig.json
+C:\Users\Balázs\Documents\Git\DesktopApplications\Balaton\bin\Debug\net8.0\Balaton.dll
+C:\Users\Balázs\Documents\Git\DesktopApplications\Balaton\bin\Debug\net8.0\Balaton.pdb
+C:\Users\Balázs\Documents\Git\DesktopApplications\Balaton\obj\Debug\net8.0\Balaton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balázs\Documents\Git\DesktopApplications\Balaton\obj\Debug\net8.0\Balaton.AssemblyInfoInputs.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\Balaton\obj\Debug\net8.0\Balaton.AssemblyInfo.cs
+C:\Users\Balázs\Documents\Git\DesktopApplications\Balaton\obj\Debug\net8.0\Balaton.csproj.CoreCompileInputs.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\Balaton\obj\Debug\net8.0\Balaton.sourcelink.json
+C:\Users\Balázs\Documents\Git\DesktopApplications\Balaton\obj\Debug\net8.0\Balaton.dll
+C:\Users\Balázs\Documents\Git\DesktopApplications\Balaton\obj\Debug\net8.0\refint\Balaton.dll
+C:\Users\Balázs\Documents\Git\DesktopApplications\Balaton\obj\Debug\net8.0\Balaton.pdb
+C:\Users\Balázs\Documents\Git\DesktopApplications\Balaton\obj\Debug\net8.0\Balaton.genruntimeconfig.cache
+C:\Users\Balázs\Documents\Git\DesktopApplications\Balaton\obj\Debug\net8.0\ref\Balaton.dll
